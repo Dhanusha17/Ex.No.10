@@ -1,66 +1,64 @@
-# Ex.No.10
-Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
+# Ex.No.10 — Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Date: 04.11.2025
+## Reg. No.:212223040034
+## NAME: DHANUSHA K
 
-## Aim:
-To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
+# Aim:
+To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works using ChatGPT. The goal is to observe how different prompt structures affect content quality, coherence, and creativity.
 
-## Procedure:
-1.	Introduction to Prompt Patterns: Begin by understanding the following prompt patterns:
-○	Query Decomposition: Breaking down complex queries into smaller, actionable parts.
-○	Decision Making: Asking the model to choose between options or directions.
-○	Answer Engineering: Refining outputs by giving detailed instructions on how to structure or format the answer.
-○	Fact Check List: Ensuring the content is factually accurate, especially for reports or case studies.
-○	Tail Generation: Extending the content logically to create depth in storytelling or analysis.
-○	Menu Actions: Presenting multiple action choices and guiding the AI to select one.
-○	Semantic Filter: Applying filters to control the tone, style, and accuracy of the content.
-2.	Choosing the Content Type: Decide on the type of content you want to create. This could be:
-○	Reports (e.g., industry analysis, sustainability reports, etc.)
-○	Case Studies (e.g., business solutions, technological innovations)
-○	Articles (e.g., opinion pieces, educational articles)
-○	Creative Content (e.g., comic book story, short stories, video scripts)
-3.	For example, you could choose a business report on market trends, a case study on a successful startup, or even a story-based prompt like creating a fictional world for a comic.
-4.	Creating the Prompts:
-○	Start with simple prompts to generate initial content.
-○	Gradually refine the prompts, moving toward more complex techniques like decision-making (asking the model to pick one of several options), tail generation (extending the narrative), and semantic filtering (adjusting style or tone).
-5.	Generating and Refining Outputs: Use the model to generate initial drafts, and then refine the outputs using iterative adjustments:
-○	For a report, prompt the model with basic data, then ask for a deeper analysis and insights.
-○	For creative content, refine the initial story idea with specific details on characters, settings, or actions.
-6.	Review and Evaluation: After generating content, evaluate the outputs for:
-○	Coherence: Is the generated content logical and structured?
-○	Creativity/Originality: Is the content engaging and fresh?
-○	Accuracy: Is the content factually accurate (for reports and case studies)?
-○	Tone and Style: Does the content match the intended tone (formal, creative, educational)?
-________________________________________
-Test Case Scenarios for Content Generation: (USE ANY 2)
-content generation scenarios:
-1.	Business Report on Market Trends
-2.	Case Study on Business Success
-3.	Article on Climate Change
-4.	Creative Writing - Sci-Fi Short Story
-5.	Educational Report on Renewable Energy
-6.	Product Launch Announcement
-7.	Travel Blog Post
-8.	Research Paper on Artificial Intelligence
-9.	Interview Transcript for Documentary
-10.	Sustainability Practices in Fashion
-11.	How to Build an E-commerce Website
-12.	Social Issue Awareness Campaign
-13.	Artificial Intelligence Impact on Healthcare
-## Instructions:
-1.	Select a Topic: Choose a topic (e.g., market trends, climate change, sci-fi story) that interests you.
-2.	Use Basic Prompts: Start by crafting simple, general prompts to generate initial content.
-3.	Refine Your Prompts: Gradually introduce more complexity by adding details, refining the structure, and using different prompt techniques like decision making or semantic filtering.
-4.	Evaluate the Output: Review the generated content for clarity, creativity, and accuracy.
-5.	Iterate for Improvement: Based on the feedback, refine the prompts and regenerate the content as needed.
+# Procedure:
+# 1. Introduction to Prompt Patterns
+Before generating content, the following prompt patterns were studied and applied:
+Query Decomposition: Breaking a complex query into smaller, manageable parts.
+Decision Making: Letting the model choose between alternative directions or options.
+Answer Engineering: Structuring the response by giving explicit formatting and content instructions.
+Fact Checklist: Ensuring factual correctness and data verification.
+Tail Generation: Extending or deepening the narrative logically.
+Menu Actions: Providing multiple options for the model to choose the best response.
+Semantic Filtering: Controlling tone, accuracy, and style (e.g., formal, creative, technical).
 
-## Deliverables:
-1.	First Draft: A basic draft of the report, case study, article, or story generated using simple prompts.
-2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
-3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
-4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+# 2. Choosing the Content Type
+Two types of content were selected:
+Business Report on Market Trends (Analytical and factual)
+Creative Writing – Sci-Fi Short Story (Imaginative and narrative-driven)
 
-## Conclusion:
-By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
+# 3. Creating the Prompts and Generating Outputs
+# Business Report on Market Trends
+### Step 1: Basic Prompt
+“Write a short report on current global market trends in 2025.”
+
+# Output :
+<img width="558" height="547" alt="image" src="https://github.com/user-attachments/assets/d00e783d-6c23-47cf-b87a-ea7c70b06e07" />
+
+
+### Step 2: Refined Prompt 
+“Break down 2025 market trends into sectors (technology, energy, and retail). Analyze key factors driving growth in each, and conclude with insights on future outlook. Use a formal business report format.”
+
+Output (Refined Draft):
+
+<img width="554" height="553" alt="image" src="https://github.com/user-attachments/assets/48f0be03-cd4f-42d5-9486-27aa301bdf21" />
+
+1. Technology Sector:
+Artificial Intelligence, cloud computing, and cybersecurity dominate investments. The surge in AI-driven automation has boosted productivity, particularly in logistics and manufacturing.
+2. Energy Sector:
+Renewable energy continues to expand due to climate policies. Solar and wind power capacity increased by 20% globally, while hydrogen technologies gain traction.
+3. Retail Sector:
+E-commerce remains strong, with personalization and same-day delivery becoming standard. Consumer preference for sustainable brands shapes new retail models.
+4. Conclusion:
+The convergence of digital innovation and sustainability defines 2025’s global economy. Businesses that adapt to these dual imperatives are best positioned for long-term success.
+
+## Step 3: Further Refinement Prompt
+“Enhance the tone to sound more analytical and data-driven, with a professional executive summary and actionable insights.”
+
+### output:
+<img width="581" height="552" alt="image" src="https://github.com/user-attachments/assets/416901fc-7259-410b-86c8-b92b7eefc214" />
+
+# Key Insights:
+
+Technology: AI adoption in enterprises rose by 35%, streamlining decision-making.
+Energy: Renewable energy now accounts for 40% of total generation capacity.
+Retail: Consumer spending shifts toward eco-conscious brands and digital marketplaces.
+
+# Conclusion:
+The future of markets lies in sustainable digitization. Firms prioritizing environmental, social, and governance (ESG) strategies along with AI integration will remain competitive.

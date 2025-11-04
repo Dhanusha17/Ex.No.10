@@ -35,7 +35,7 @@ Creative Writing – Sci-Fi Short Story (Imaginative and narrative-driven)
 ### Step 2: Refined Prompt 
 “Break down 2025 market trends into sectors (technology, energy, and retail). Analyze key factors driving growth in each, and conclude with insights on future outlook. Use a formal business report format.”
 
-Output (Refined Draft):
+### Output (Refined Draft):
 
 <img width="554" height="553" alt="image" src="https://github.com/user-attachments/assets/48f0be03-cd4f-42d5-9486-27aa301bdf21" />
 
@@ -55,10 +55,9 @@ The convergence of digital innovation and sustainability defines 2025’s global
 <img width="581" height="552" alt="image" src="https://github.com/user-attachments/assets/416901fc-7259-410b-86c8-b92b7eefc214" />
 
 # Key Insights:
-
-Technology: AI adoption in enterprises rose by 35%, streamlining decision-making.
-Energy: Renewable energy now accounts for 40% of total generation capacity.
-Retail: Consumer spending shifts toward eco-conscious brands and digital marketplaces.
+#### Technology: AI adoption in enterprises rose by 35%, streamlining decision-making.
+#### Energy: Renewable energy now accounts for 40% of total generation capacity.
+#### Retail: Consumer spending shifts toward eco-conscious brands and digital marketplaces.
 
 # Conclusion:
 The future of markets lies in sustainable digitization. Firms prioritizing environmental, social, and governance (ESG) strategies along with AI integration will remain competitive.
